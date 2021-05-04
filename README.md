@@ -16,7 +16,7 @@ I was asked to accomplish three main tasks:
 
 I created an entity relationship diagram (ERD) by inspecting the provided CSV files.I used Quick Database Diagrams to create my model.
 
-![ERD](https://github.com/arzuisiktopbas/python-homework/blob/main/Homework%236/Images/QuickDBD-HW6.png)
+![ERD](https://github.com/arzuisiktopbas/06-Looking_for_Suspicious_Transactions/blob/main/Images/QuickDBD-HW6.png)
 
 
 
@@ -28,11 +28,11 @@ I imported the data from the corresponding CSV files.
 
 My data was prepared within the database, it's finally time to identify fraudulent transactions using SQL and Pandas DataFrames. 
 
-![ID2](https://github.com/arzuisiktopbas/python-homework/blob/main/Homework%236/Images/ID2.png)
+![ID2](https://github.com/arzuisiktopbas/06-Looking_for_Suspicious_Transactions/blob/main/Images/ID2.png)
 
-![ID18](https://github.com/arzuisiktopbas/python-homework/blob/main/Homework%236/Images/ID18.png)
+![ID18](https://github.com/arzuisiktopbas/06-Looking_for_Suspicious_Transactions/blob/main/Images/ID18.png)
 
-![ID18&2](https://github.com/arzuisiktopbas/python-homework/blob/main/Homework%236/Images/ID2%2618.png)
+![ID18&2](https://github.com/arzuisiktopbas/06-Looking_for_Suspicious_Transactions/blob/main/Images/ID2%2618.png)
 
 
 It seems that consumption pattern for card holder ID #2 is regular spending, since amounts are within a certain range. However, It is obvious that card holder ID #18 has different spending habits. There are some huge purchases periodicly. These purchases need to be investigated as they are likely to be fraudulent.
