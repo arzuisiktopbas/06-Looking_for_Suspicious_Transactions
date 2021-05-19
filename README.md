@@ -39,7 +39,7 @@ It seems that consumption pattern for card holder ID #2 is regular spending, sin
 
 
 
-![ID25](https://github.com/arzuisiktopbas/python-homework/blob/main/Homework%236/Images/ID25.png)
+![ID25](https://github.com/arzuisiktopbas/06-Looking_for_Suspicious_Transactions/blob/main/Images/ID25.png)
 
 Although the transactions of card holder ID # 25 seems spend small amounts, large spending is made almost every month. The card holder must be warned in order to aware about these transactions.
 
