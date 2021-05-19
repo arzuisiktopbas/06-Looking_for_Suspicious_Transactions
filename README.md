@@ -1,13 +1,13 @@
-# HW6 - Looking for Suspicious Transactions
+# Looking for Suspicious Transactions
  *by Arzu ISIK TOPBAS*
 
 ![image source](https://www.cbc.ca/gfx/images/news/topstories/2013/05/08/hi-bc0130508-fraud-generic-istock.jpg)
 
 [image source:cbc.ca](https://www.cbc.ca/gfx/images/news/topstories/2013/05/08/hi-bc0130508-fraud-generic-istock.jpg)
 
-In this homework activity, I was tasked with building a prototype dashboard.The goal of this dashboard is to provide charts, maps, and interactive visualizations that help customers explore the data and determine if they want to invest in rental properties in San Francisco.
+I was tasked with building a prototype dashboard.The goal of this dashboard is to provide charts, maps, and interactive visualizations that help customers explore the data and determine if they want to invest in rental properties in San Francisco.
 
-In this homework assignment, I applied my new SQL skills to analyze historical credit card transactions and consumption patterns in order to identify possible fraudulent transactions.
+I applied my new SQL skills to analyze historical credit card transactions and consumption patterns in order to identify possible fraudulent transactions.
 I was asked to accomplish three main tasks:
 
 
